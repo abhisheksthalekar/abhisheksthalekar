@@ -1,3 +1,5 @@
 description: Senior Software Engineer, Certified Scrum Master
-theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+teme: jekyll-theme-cayman
 title: Abhishek Sthalekar
